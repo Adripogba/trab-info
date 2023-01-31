@@ -1,0 +1,20 @@
+{
+	"name": "Nuevo proyecto",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "zvr5c4vuz5g",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r327.2",
+	"ife": true,
+	"used-plugins": [
+		"Sprite"
+	],
+	"used-behaviors": []
+}
